@@ -1,0 +1,24 @@
+.head{
+    background: rgba(17, 17, 17, 0.973);
+    height: 25vh;
+    width: 100vw;
+}
+
+.main{
+    background: rgba(155, 155, 154, 0.123);
+    height: 100vh;
+    width: 100vw;
+}
+
+.container{
+    background: white;
+    height: 100vh;
+    width:70vw;
+    margin: 0px 15vw;
+    
+}
+.foot{
+    background: rgba(17, 17, 17, 0.973);
+    height: 10vh;
+    width: 100vw;
+}

@@ -1,0 +1,36 @@
+.head {
+    background: lightgray;
+    height: 10vh;
+}
+.box{
+    background :blue;
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin: 25px;
+}
+.container-1 {
+    height: 20vh;
+}
+.container-1 h1{
+    float: left;
+    margin: 40px;
+
+    
+}
+.container-2 {
+    background: rgba(60, 60, 212, 0.849);
+    height: 10vh;
+}
+.container-3 {
+    background: rgb(37, 184, 164);
+    height: 10vh;
+}
+.container-4 {
+    background: rgb(160, 236, 45);
+    height: 10vh;
+}
+.container-5 {
+    background: rgb(196, 196, 37);
+    height: 10vh;
+}
